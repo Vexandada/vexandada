@@ -2,7 +2,7 @@
 
  ## Introduction
 
- ToDoList is software/andriod-app that allow users to tracking the status of tasks i.e. to ìGetting Things Doneî, Scheduling, and Collaboration.
+ ToDoList is software/andriod-app that allow users to tracking the status of tasks i.e. to ‚ÄúGetting Things Done‚Äù, Scheduling, and Collaboration.
  
  ## Video Walkthrough
 
@@ -47,11 +47,11 @@
  - Fragments
 
 ## Framework Used
-Modelñviewñviewmodel (**MVVM**) is a software design pattern that is structured to separate program logic and user interface controls.**MVVM** is also known as model-view-binder. The separation of the code in MVVM is divided into View, ViewModel and Model.
+Model‚Äìview‚Äìviewmodel (**MVVM**) is a software design pattern that is structured to separate program logic and user interface controls.**MVVM** is also known as model-view-binder. The separation of the code in MVVM is divided into View, ViewModel and Model.
  
 ## Libraries Used
  - Room
  - SweetAlert
  
 ## License
- Copyright 2019 Ashmita Regmi_77209981. The British College.
+ Copyright 2020 Vexan dada. The British College.
